@@ -1,0 +1,11 @@
+commit 992cc85fe8e239335c7d39602251493e2cc77ca8
+Author: hajarmi <hajarmira2@gmail.com>
+Date:   Wed Nov 20 21:44:02 2024 +0100
+
+    add task1/readme file
+
+commit 308b85b16bb8b9af79097746c72999546eb0ffcf
+Author: hajarmi <103279786+hajarmi@users.noreply.github.com>
+Date:   Wed Nov 20 21:12:59 2024 +0100
+
+    Initial commit
